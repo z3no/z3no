@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About me
 
-My name is Zeno Driesen, I'm an aspiring Junior Fullstack Web Developer. After years of serving up delicious coffee and other beverages I discovered my passion for code. So here I am! Working and studying hard to make my newly found passion a careerpath and dive into the world of web development.
+My name is Zeno Driesen, I'm an aspiring Junior Fullstack Web Developer. After years of serving up delicious coffee and other beverages I discovered my passion for code. So here I am! Working and studying hard to make my newly found passion a careerpath and dive into the world of web development. After a succesful internship @ Tactics I got the chance to start my carreer as a developer.
 
-- 👨‍🎓 I'm currently studying Junior Fullstack Web Development at BeCode.
-- 🤘 I'm looking for an internship in the web development industry.
-- 🌱 I'm currently learning some C#
+- 🌱 I'm currently working on a React Native project.
 
 ## :mailbox: You can contact me here
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenodriesen/)
