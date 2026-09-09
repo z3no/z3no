@@ -35,13 +35,9 @@ My name is Zeno Driesen, I'm an aspiring Junior Fullstack Web Developer. After y
 
 ## :fire: Github stats
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=z3no&theme=github_dark" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z3no)
 
-<a href="https://github.com/z3no/z3no">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3no&theme=github_dark&layout=compact&langs_count=8" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3no)
 
 <!-- **z3no/z3no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
