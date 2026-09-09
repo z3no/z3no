@@ -39,7 +39,7 @@ My name is Zeno Driesen, I'm an aspiring Junior Fullstack Web Developer. After y
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=z3no&theme=github_dark" />
 </a>
 
-<a href="https://github.com/ze3no/z3no">
+<a href="https://github.com/z3no/z3no">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3no&theme=github_dark&layout=compact&langs_count=8" />
 </a>
 
